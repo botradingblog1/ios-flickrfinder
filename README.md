@@ -37,7 +37,7 @@ Apple Mac OSX laptop, XCode 8+
 Version 1.0
 
 ## Authors
-Christian Scheid - (https://justmobiledev.com)[https://justmobiledev.com]
+Christian Scheid - [https://justmobiledev.com](https://justmobiledev.com)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
